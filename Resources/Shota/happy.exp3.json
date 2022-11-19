@@ -6,22 +6,22 @@
 		{
 			"Id": "ParamHappy",
 			"Value": 1,
-			"Blend": "Overwrite"
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamCheek_Happy",
 			"Value": 1,
-			"Blend": "Overwrite"
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamEyeLOpen_Happy",
 			"Value": 1,
-			"Blend": "Overwrite"
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamEyeROpen_Happy",
 			"Value": 1,
-			"Blend": "Overwrite"
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowL_Happy",
